@@ -1,0 +1,88 @@
+﻿@using Firstapp.Models;
+@model ViewModel;
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>
+    Сервис взаимодействия с API Национального банка РБ
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</h1>
+
+<body>
+    <h3>Загрузка данных о курсах валют в базу данных</h3>
+    @using (Html.BeginForm("CurrenciesButton", "Home"))
+    {   
+        <p>Выберите дату</p>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.DateTimeCurrencies, "{0:dd/MM/yyyy}")
+            @Html.ValidationMessageFor(model => model.DateTimeCurrencies)
+        </div>
+        <p>
+            <input type="submit" value="Загрузить данные" />
+        </p>
+        @if (!string.IsNullOrEmpty(ViewBag.Message))
+        {
+            <script type="text/javascript">
+                window.onload = function () {
+                    alert("@ViewBag.Message");
+                };
+            </script>
+        }
+    }
+</body>
+
+
+<body>
+    <h3>Получить информацию о курсе валюты к белорусскому рублю</h3>
+    @using (Html.BeginForm("CurrencyButton", "Home"))
+    {
+        <p>Выберите дату и код валюты</p>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.DateTimeCurrency, "{0:dd/MM/yyyy}")
+            @Html.ValidationMessageFor(model => model.DateTimeCurrency)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.CodeName)
+            @Html.ValidationMessageFor(model => model.CodeName)
+        </div>
+        <p>
+            <input type="submit" value="Получить информацию о курсе валюты" />
+        </p>
+    }
+</body>
+
+@if (Model != null)
+{
+    @if (Model.ListCurrency != null)
+    {
+        <h3>Курс иностранной валюты к белорусскому рублю</h3>
+        <style type="text/css">
+            .table th, .table td {
+                text-align: center;
+            }
+        </style>
+        <table class="table" border="1" width="100%">
+            <thead>
+                <tr>
+                    <th>Валюта</th>
+                    <th>Количество единиц иностранной валюты</th>
+                    <th>Курс НБ РБ</th>
+                    <th>Дата курса</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @foreach (var item in Model.ListCurrency)
+                    {
+                        <td>@item.CurAbbreviation</td>
+                        <td>@item.CurScale</td>
+                        <td>@item.CurOfficialRate</td>
+                        <td>@item.Date</td>
+                    }
+                </tr>
+            </tbody>
+        </table>
+    }
+}
