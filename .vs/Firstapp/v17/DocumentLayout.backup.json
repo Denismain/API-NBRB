@@ -7,36 +7,48 @@
       "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\dbcontext\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:dbcontext\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\entities\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:entities\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\models\\timemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:models\\timemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\models\\currencyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:models\\currencyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\models\\allcurrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:models\\allcurrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\dbcontext\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:dbcontext\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\models\\timemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:models\\timemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\models\\currencyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:models\\currencyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\migrations\\20241214153718_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:migrations\\20241214153718_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\entities\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:entities\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +75,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\firstapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:firstapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|d:\\fa\\firstapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D342A1F2-9994-42AE-A3C9-28216597BCF6}|Firstapp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -84,9 +92,9 @@
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\FA\\Firstapp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\FA\\Firstapp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAiwDgAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\FA\\Firstapp\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAArwCUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T16:28:48.301Z",
               "IsPinned": true,
@@ -94,13 +102,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\FA\\Firstapp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\FA\\Firstapp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-19T16:35:08.761Z",
               "IsPinned": true,
@@ -108,11 +116,66 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "D:\\FA\\Firstapp\\Models\\ViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModel.cs",
+              "ToolTip": "D:\\FA\\Firstapp\\Models\\ViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:15:56.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\FA\\Firstapp\\DBContext\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "DBContext\\ApplicationContext.cs",
+              "ToolTip": "D:\\FA\\Firstapp\\DBContext\\ApplicationContext.cs",
+              "RelativeToolTip": "DBContext\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:48:56.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllCurrencies.cs",
+              "DocumentMoniker": "D:\\FA\\Firstapp\\Models\\AllCurrencies.cs",
+              "RelativeDocumentMoniker": "Models\\AllCurrencies.cs",
+              "ToolTip": "D:\\FA\\Firstapp\\Models\\AllCurrencies.cs",
+              "RelativeToolTip": "Models\\AllCurrencies.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:02:20.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TimeModel.cs",
               "DocumentMoniker": "D:\\FA\\Firstapp\\Models\\TimeModel.cs",
               "RelativeDocumentMoniker": "Models\\TimeModel.cs",
@@ -120,25 +183,47 @@
               "RelativeToolTip": "Models\\TimeModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T13:48:25.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T13:48:25.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ViewModel.cs",
-              "DocumentMoniker": "D:\\FA\\Firstapp\\Models\\ViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModel.cs",
-              "ToolTip": "D:\\FA\\Firstapp\\Models\\ViewModel.cs",
-              "RelativeToolTip": "Models\\ViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CurrencyResponse.cs",
+              "DocumentMoniker": "D:\\FA\\Firstapp\\Models\\CurrencyResponse.cs",
+              "RelativeDocumentMoniker": "Models\\CurrencyResponse.cs",
+              "ToolTip": "D:\\FA\\Firstapp\\Models\\CurrencyResponse.cs",
+              "RelativeToolTip": "Models\\CurrencyResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T17:15:56.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T07:47:30.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FA\\Firstapp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FA\\Firstapp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:58:13.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241214153718_InitialCreate.cs",
+              "DocumentMoniker": "D:\\FA\\Firstapp\\Migrations\\20241214153718_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241214153718_InitialCreate.cs",
+              "ToolTip": "D:\\FA\\Firstapp\\Migrations\\20241214153718_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241214153718_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:21:44.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Currency.cs",
               "DocumentMoniker": "D:\\FA\\Firstapp\\Entities\\Currency.cs",
               "RelativeDocumentMoniker": "Entities\\Currency.cs",
@@ -146,130 +231,11 @@
               "RelativeToolTip": "Entities\\Currency.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T14:56:55.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "D:\\FA\\Firstapp\\DBContext\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "DBContext\\ApplicationContext.cs",
-              "ToolTip": "D:\\FA\\Firstapp\\DBContext\\ApplicationContext.cs",
-              "RelativeToolTip": "DBContext\\ApplicationContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:48:56.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CurrencyResponse.cs",
-              "DocumentMoniker": "D:\\FA\\Firstapp\\Models\\CurrencyResponse.cs",
-              "RelativeDocumentMoniker": "Models\\CurrencyResponse.cs",
-              "ToolTip": "D:\\FA\\Firstapp\\Models\\CurrencyResponse.cs",
-              "RelativeToolTip": "Models\\CurrencyResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:47:30.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FA\\Firstapp\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\FA\\Firstapp\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-18T11:04:56.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FA\\Firstapp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\FA\\Firstapp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwA4AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T09:58:13.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\FA\\Firstapp\\Migrations\\ApplicationContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ApplicationContextModelSnapshot.cs",
-              "ToolTip": "D:\\FA\\Firstapp\\Migrations\\ApplicationContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ApplicationContextModelSnapshot.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwDkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T14:39:25.286Z"
+              "WhenOpened": "2024-12-14T14:56:55.366Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "dbo.Currencies.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/applicationdb/True/SqlTable/dbo.Currencies.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/applicationdb/True/SqlTable/dbo.Currencies.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-12-15T17:37:28.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "dbo.__EFMigrationsHistory.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/applicationdb/True/SqlTable/dbo.__EFMigrationsHistory.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/applicationdb/True/SqlTable/dbo.__EFMigrationsHistory.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-12-15T17:14:38.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20241214153718_InitialCreate.Designer.cs",
-              "DocumentMoniker": "D:\\FA\\Firstapp\\Migrations\\20241214153718_InitialCreate.Designer.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241214153718_InitialCreate.Designer.cs",
-              "ToolTip": "D:\\FA\\Firstapp\\Migrations\\20241214153718_InitialCreate.Designer.cs",
-              "RelativeToolTip": "Migrations\\20241214153718_InitialCreate.Designer.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T17:21:01.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20241215153241_MyInitialMigration.Designer.cs",
-              "DocumentMoniker": "D:\\FA\\Firstapp\\Migrations\\20241215153241_MyInitialMigration.Designer.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241215153241_MyInitialMigration.Designer.cs",
-              "ToolTip": "D:\\FA\\Firstapp\\Migrations\\20241215153241_MyInitialMigration.Designer.cs",
-              "RelativeToolTip": "Migrations\\20241215153241_MyInitialMigration.Designer.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T17:01:46.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20241215153241_MyInitialMigration.cs",
-              "DocumentMoniker": "D:\\FA\\Firstapp\\Migrations\\20241215153241_MyInitialMigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241215153241_MyInitialMigration.cs",
-              "ToolTip": "D:\\FA\\Firstapp\\Migrations\\20241215153241_MyInitialMigration.cs",
-              "RelativeToolTip": "Migrations\\20241215153241_MyInitialMigration.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T17:00:46.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\FA\\Firstapp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -281,7 +247,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FA\\Firstapp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\FA\\Firstapp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T11:04:56.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\FA\\Firstapp\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationContextModelSnapshot.cs",
+              "ToolTip": "D:\\FA\\Firstapp\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationContextModelSnapshot.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:39:25.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.Currencies.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/applicationdb/True/SqlTable/dbo.Currencies.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/applicationdb/True/SqlTable/dbo.Currencies.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-15T17:37:28.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.__EFMigrationsHistory.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/applicationdb/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/applicationdb/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-15T17:14:38.733Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "20241214153718_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\FA\\Firstapp\\Migrations\\20241214153718_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241214153718_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\FA\\Firstapp\\Migrations\\20241214153718_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241214153718_InitialCreate.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:21:01.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241215153241_MyInitialMigration.Designer.cs",
+              "DocumentMoniker": "D:\\FA\\Firstapp\\Migrations\\20241215153241_MyInitialMigration.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241215153241_MyInitialMigration.Designer.cs",
+              "ToolTip": "D:\\FA\\Firstapp\\Migrations\\20241215153241_MyInitialMigration.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241215153241_MyInitialMigration.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:01:46.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241215153241_MyInitialMigration.cs",
+              "DocumentMoniker": "D:\\FA\\Firstapp\\Migrations\\20241215153241_MyInitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241215153241_MyInitialMigration.cs",
+              "ToolTip": "D:\\FA\\Firstapp\\Migrations\\20241215153241_MyInitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20241215153241_MyInitialMigration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:00:46.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Firstapp.csproj",
               "DocumentMoniker": "D:\\FA\\Firstapp\\Firstapp.csproj",
               "RelativeDocumentMoniker": "Firstapp.csproj",

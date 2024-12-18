@@ -1,10 +1,6 @@
 ﻿@using Firstapp.Models;
 @model ViewModel;
 
-@{
-    ViewData["Title"] = "Index";
-}
-
 <h1>
     Сервис взаимодействия с API Национального банка РБ
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -44,8 +40,15 @@
             @Html.ValidationMessageFor(model => model.DateTimeCurrency)
         </div>
         <div class="editor-field">
-            @Html.EditorFor(model => model.CodeName)
-            @Html.ValidationMessageFor(model => model.CodeName)
+            @Html.DropDownList("CodeName", ViewBag.Currencies as SelectList, "Выберите валюту", new { @class = "form-control" })
+            @if (!string.IsNullOrEmpty(ViewBag.Message))
+            {
+                <script type="text/javascript">
+                    window.onload = function () {
+                        alert("@ViewBag.Message");
+                    };
+                </script>
+            }
         </div>
         <p>
             <input type="submit" value="Получить информацию о курсе валюты" />
